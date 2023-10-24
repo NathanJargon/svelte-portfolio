@@ -8,3 +8,5 @@ this year's design is simplicity.
 
 Similar to the other versions, the source code is available only as a reference point for others. You may not distribute, reproduce, replicate
 or cause any harm to the website. You are free to use the source code as a reference point only.
+
+It's the internet. You steal like a pirate, you earn it. But the thing is, you get caught by the marines, you deal with the consequences.
